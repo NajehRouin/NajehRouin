@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Najeh Rouin</h1>
+<h1 align="center">Hi 👋🏻, I'm Najeh Rouin</h1>
 <h3 align="center">A passionate frontend developer from Tunisia</h3>
 
 - 🌱 I’m currently learning **FullStack js**
